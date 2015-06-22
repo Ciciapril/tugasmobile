@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.slamet.barlingmascakebtourism_v1.MainActivity" >
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/keluar"
+        android:orderInCategory="100"
+        android:title="Keluar"
+        app:showAsAction="never"/>
+
+</menu>
